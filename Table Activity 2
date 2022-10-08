@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Table</title>
+</head>
+<body> 
+    <table border="3">
+        <th colspan="2">Asian Languages</th>
+        <tbody>
+                <tr colspan="8">
+                  <td>Dialect</td>
+                  <td>Language </td> 
+                </tr><tr>
+                    <td>Bikol</td>
+                    <td rowspan="8">Filipino</td>
+                    
+                </tr>
+                     <td>Cebuano</td>
+                     
+                <tr>
+                    <td>Hiligaynun</td>
+                <tr>
+                    <td>Ilocano</td>
+                </tr>
+                     <td>kapampangan</td>
+                <tr>
+                    <td>Pangasinan</td>
+                 <tr>
+                    <td>Tagalog</td>
+                 </tr>
+                    <td>Waray</td>
+                </tr>
+
+
+                </tr>
+            </table>
+           
+        </tbody>
+        <tbody>
+           
+
+        </tbody>
+              
+    
+</body>
+</html>
